@@ -1,0 +1,20 @@
+body {
+    background-color: #a8dadc;
+    color: #293241;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding: 5px 20px;
+    background-color:#457b9d;
+    border-style: none;
+    color: #fdffff;
+}
+input{
+    height: 24px;
+}
+.nametext{
+    font-weight: 540;
+    letter-spacing: 1px;
+}
